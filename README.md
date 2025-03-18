@@ -1,4 +1,10 @@
 #Practice.scm
+#Team Members
+1. Pushkar ahuja
+2. Ravleen kaur
+3. Prachi
+4. Raman
+5. Piyush
 # Smart home automation system
 ## description 
 Smart Home Automation System
